@@ -15,7 +15,6 @@
 - Role: Python Developer
 - Location: Ahmedabad,Gujrat
 - Email: parthpatel.13cpk@gmail.com
-- GitHub: [ParthChhatrala13](https://github.com/ParthChhatrala13) 🧑‍💻
 - Linkedin: [Parth Chhatrala](www.linkedin.com/in/parth-chhatrala-4946a3270)
 
 💡 I specialize in backend development using Python, FastAPI, and databases like PostgreSQL & MySQL.
