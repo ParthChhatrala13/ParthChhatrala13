@@ -80,8 +80,8 @@ Notes:
 
 Badges & Stats Images:
 
-- GitHub Readme Stats: ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthChhatrala13&show_icons=true&theme=github_dark)
-- Top Languages: ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChhatrala13&layout=compact&theme=github_dark)
+ ![Parth's GitHub stats](https://github-readme-stats.vercel.app/api?username=ParthChhatrala13&show_icons=true&theme=github_dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParthChhatrala13&layout=compact&theme=github_dark)
 
 
 ## 
