@@ -23,7 +23,20 @@ I also work with NumPy, Pandas, and integrate services like Twilio and Mailgun.
 
 ## Skills & Technologies
 
-js,html,css,nodejs,react,py,git,github,vercel,express
+Backend:
+Python FastAPI SQLAlchemy REST API
+
+Database:
+PostgreSQL MySQL SQLite MongoDB
+
+Tools & Libraries:
+ JWT Sentry
+
+Frontend (Basic):
+HTML5 CSS3 JavaScript
+
+Deployment & Tools:
+Vercel Git Anaconda
 
 ## Top Projects
 
